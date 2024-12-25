@@ -1,4 +1,4 @@
-<h1>Porjeto Mario Bros</h1>
+<h1>Projeto Mario Bros</h1>
 <p>Olá Rede Bem-Vindos!</p>
 <p>Este foi meu Segundo Projeto Feito na Instuição <a href="https://rodolfomori.com.br/devclub/"> DevClub</a> estava Aprendendo sobre este universo fasinante que é a Area do Front End </p>
 <p>É hoje e a minha paixão pode Programar, e Mostra meus Projetos para vocês.</p>
